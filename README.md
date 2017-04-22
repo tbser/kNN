@@ -1,10 +1,10 @@
 # kNN
-k-近邻算法
+machine learning in action   k-近邻算法 
 
-kNN-1:
+kNN_1:
   简单的kNN算法实现。
 
-kNN-2:
+kNN_2:
   使用k-近邻算法改进约会网站的配对效果。
     1）收集数据：提供文本文件；
     2）准备数据：使用python解析文本文件；
