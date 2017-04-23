@@ -1,6 +1,5 @@
 #!usr/bin/env python
 # -*- coding:utf-8 -*-
-
 import numpy as np
 import operator as op   # 运算符模块,k-近邻算法 执行排序操作时 将使用这个模块提供的函数。
 
